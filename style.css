@@ -1,0 +1,15 @@
+body{
+    background-size: cover;
+}
+.heading{
+    box-shadow:12px 20px orange;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+canvas{
+    border: 5px peachpuff;
+    box-shadow: 4px 7px peachpuff;
+ border-radius: 27;  
+}
